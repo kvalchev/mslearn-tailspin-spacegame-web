@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/kvalchev/Space%20Game%20-%20web/_apis/build/status/kvalchev.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/kvalchev/Space%20Game%20-%20web/_build/latest?definitionId=41&branchName=master)
 
 # Contributing
 
